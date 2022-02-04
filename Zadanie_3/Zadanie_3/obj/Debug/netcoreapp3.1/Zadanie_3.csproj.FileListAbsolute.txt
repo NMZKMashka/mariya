@@ -1,0 +1,13 @@
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp3.1\Zadanie_3.exe
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp3.1\Zadanie_3.deps.json
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp3.1\Zadanie_3.runtimeconfig.json
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp3.1\Zadanie_3.runtimeconfig.dev.json
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp3.1\Zadanie_3.dll
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\bin\Debug\netcoreapp3.1\Zadanie_3.pdb
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp3.1\Zadanie_3.csprojAssemblyReference.cache
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp3.1\Zadanie_3.AssemblyInfoInputs.cache
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp3.1\Zadanie_3.AssemblyInfo.cs
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp3.1\Zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp3.1\Zadanie_3.dll
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp3.1\Zadanie_3.pdb
+C:\Users\Машенька\Desktop\andersen\Zadanie_3\Zadanie_3\obj\Debug\netcoreapp3.1\Zadanie_3.genruntimeconfig.cache
